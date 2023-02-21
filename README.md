@@ -1,6 +1,3 @@
-# Tugas-Day-17
-Belajar Selenium Python
-
 import unittest
 import time
 from selenium import webdriver
